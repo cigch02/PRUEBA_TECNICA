@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegistroConsulta.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0b6a34ce251fa6d6461e48415b9eb7826057013")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+737b6ee29e7fe6ec1a0023cbcf79e1a13762b9a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegistroConsulta.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegistroConsulta.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
